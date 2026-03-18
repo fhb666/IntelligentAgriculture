@@ -1,5 +1,5 @@
 package com.fhb.manager.controller;
 
 public class LoginController {
-    int a = 8;
+    int a = 7;
 }
